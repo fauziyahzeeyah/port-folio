@@ -3,8 +3,8 @@
 # Project Name
 Port-folio
 
-> Description the project.
- ## Hello Microverse
+> ## Description the project.
+  Hello Microverse
  In this port-folio, I:
  - Created a master branch;
  - Added an SSH keys to Github;
