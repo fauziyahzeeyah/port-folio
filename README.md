@@ -3,8 +3,16 @@
 # Project Name
 Port-folio
 
-> Description the project.
-This is my first Microverse project saying Hello.
+> ## Description the project.
+  Hello Microverse
+ In this port-folio, I:
+ - Created a master branch;
+ - Added an SSH keys to Github;
+ - Added a HTML file;
+ - Added a CSS file;
+ - Added a Linters file;
+ - Added a h1 text of "Hello Microverse";
+ - Added a styling.
 
 
 ## Built With
