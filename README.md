@@ -3,7 +3,7 @@
 # Project Name
 Port-folio
 
-> ## Description the project.
+> ## Description
   Hello Microverse
  In this port-folio, I:
  - Created a master branch;
